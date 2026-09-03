@@ -1,8 +1,8 @@
 # A guide to find Product-Market Fit, from someone who has to find it again, to help me and others looking for PMF
 
-*I will continuously edit this until we find PMF.*
+*A working guide from a founder on his second attempt at PMF: the frameworks worth reading, the mistakes I made the first time, and what I'm testing now. I'll keep editing it until we get there.*
 
-*First published: 2026-09-03 | Last updated: 2026-09-03 | Also on [Substack](https://alexfranchtapia.substack.com/p/ce5dd7a3-05e8-4c3d-b9e0-25062baacd25)*
+*First published: 2026-09-03 | Last updated: 2026-09-03 | Also on [Substack](https://alexfranchtapia.substack.com/p/a-guide-to-find-product-market-fit)*
 
 ## About me
 
@@ -21,8 +21,6 @@ We’re now building [Glassray](https://www.glassray.ai), and actively working t
 My job is building a VC-backed startup, and my hobby is learning about startups and engineering; thus, I consider myself a Startup Athlete. Like any athlete, you win by training, competing, and winning enough that other great people recognise you. I’m on that path today.
 
 > Be cautious of my advice, I found PMF but an early sign of it, this does not qualify me to give advice, but it may help you to learn about my reflections.
-
-![](https://substackcdn.com/image/fetch/$s_!eK20!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F534f3d9e-0926-4220-b41c-c05a9faaa5ce_2912x2096.png)
 
 ## Recommended Reading
 
