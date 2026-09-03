@@ -33,12 +33,14 @@ The phrase “you will know when you feel it” is bad advice; therefore, others
 
    ![Levels of PMF](https://substackcdn.com/image/fetch/$s_!snF_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc81e173-4da1-4ede-ab30-a92fd5be6985_3840x2095.webp)
 
-2. **[The Arc Product-Market Fit Framework](https://sequoiacap.com/article/pmf-framework)** (.md version) a bit more generic but is great because:
+2. **[The Arc Product-Market Fit Framework](https://sequoiacap.com/article/pmf-framework)** ([.md version](https://github.com/afrancht/finding-pmf/blob/main/sequoia-arc-pmf-framework.md)) a bit more generic but is great because:
    1. It explains the different **types of companies you may be building**. VC push you towards hair-on-fire problems as those are the easiest to back, but you may want to build something different.
    2. It proposes some **terrifying questions** to critically analyse your company for example: **how is my product 10x better**?
    3. Explains the **Path to Conviction** you must have to get PMF, starting from your internal vision & belief and up to, will people pay enough to build a business.
 
    [![The Arc Product-Market Fit Framework (video)](https://img.youtube.com/vi/18A84qjVbeo/0.jpg)](https://www.youtube.com/watch?v=18A84qjVbeo)
+
+   *([transcript](https://github.com/afrancht/finding-pmf/blob/main/sequoia-arc-pmf-framework/transcripts/01-slush-deconstructing-pmf.md))*
 
 3. **[The Foundation Sprint](https://www.lennysnewsletter.com/p/introducing-the-foundation-sprint)** by John Zeratsky and Jake Knapp (creators of the design sprint). The podcast version gives you a framework to get started and start by validating your assumptions in an agressive way, while looking at your problem to solve from many directions.
 
