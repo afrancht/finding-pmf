@@ -8,6 +8,7 @@
 | **Published** | April 8, 2024 |
 | **Original** | [firstround.com/levels](https://www.firstround.com/levels) (Session 01 of [PMF Method](https://www.firstround.com/pmf)) |
 | **This copy** | Markdown export for reference while writing about product-market fit. All text, images, and videos belong to First Round and the founders quoted. |
+| **Last updated** | 2026-09-03 |
 
 ---
 
