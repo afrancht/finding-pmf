@@ -2,7 +2,7 @@
 
 **Speaker:** Christina Cacioppo, co-founder and CEO, Vanta
 **Video:** https://www.youtube.com/watch?v=1fUKLEXcSoQ (First Round Capital)
-**Embedded in:** [Levels of PMF](../first-round-levels-of-pmf.md), Level 2: Developing (What matters most)
+**Embedded in:** [Levels of PMF](../../first-round-levels-of-pmf.md), Level 2: Developing (What matters most)
 **Note:** Raw auto-generated captions. Paragraph breaks added for readability. Wording untouched.
 
 ---

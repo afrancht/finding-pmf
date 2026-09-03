@@ -2,7 +2,7 @@
 
 **Speaker:** Lloyd Tabb, co-founder, Looker
 **Video:** https://www.youtube.com/watch?v=T52RreyN4TE (First Round Capital)
-**Embedded in:** [Levels of PMF](../first-round-levels-of-pmf.md), Level 1: Nascent (What matters most)
+**Embedded in:** [Levels of PMF](../../first-round-levels-of-pmf.md), Level 1: Nascent (What matters most)
 **Note:** Raw auto-generated captions. Paragraph breaks added for readability. Wording untouched.
 
 ---

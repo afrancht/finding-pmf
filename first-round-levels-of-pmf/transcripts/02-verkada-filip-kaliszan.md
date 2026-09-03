@@ -2,7 +2,7 @@
 
 **Speaker:** Filip Kaliszan, co-founder and CEO, Verkada
 **Video:** https://www.youtube.com/watch?v=YwxvuXELMbk (First Round Capital)
-**Embedded in:** [Levels of PMF](../first-round-levels-of-pmf.md), Level 1: Nascent
+**Embedded in:** [Levels of PMF](../../first-round-levels-of-pmf.md), Level 1: Nascent
 **Note:** Raw auto-generated captions. Paragraph breaks added for readability. Wording untouched.
 
 ---

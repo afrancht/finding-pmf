@@ -2,7 +2,7 @@
 
 **Speaker:** Jason Boehmig, co-founder and CEO, Ironclad
 **Video:** https://www.youtube.com/watch?v=n1_DkGDkzzg (First Round Capital)
-**Embedded in:** [Levels of PMF](../first-round-levels-of-pmf.md), Level 1: Nascent
+**Embedded in:** [Levels of PMF](../../first-round-levels-of-pmf.md), Level 1: Nascent
 **Note:** Raw auto-generated captions. Paragraph breaks added for readability. Wording untouched.
 
 ---

@@ -2,7 +2,7 @@
 
 **Speaker:** Jack Altman, co-founder and CEO, Lattice
 **Video:** https://www.youtube.com/watch?v=f8u2vs1NRv4 (First Round Capital)
-**Embedded in:** [Levels of PMF](../first-round-levels-of-pmf.md), Level 1: Nascent (Yellow flags)
+**Embedded in:** [Levels of PMF](../../first-round-levels-of-pmf.md), Level 1: Nascent (Yellow flags)
 **Note:** Raw auto-generated captions. Paragraph breaks added for readability. Wording untouched.
 
 ---
