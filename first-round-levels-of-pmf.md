@@ -708,13 +708,13 @@ That journey of climbing your way to extreme product-market fit only to have to 
 
 ## Appendix: Founder videos
 
-The six short "Path to Product-Market Fit" videos embedded in the original, all from the First Round Capital YouTube channel:
+The six short "Path to Product-Market Fit" videos embedded in the original, all from the First Round Capital YouTube channel. Raw caption transcripts live in the [transcripts](transcripts/) folder:
 
-| Founder | Company | Video |
-|---|---|---|
-| Jason Boehmig | Ironclad | [Ironclad's Path to Product-Market Fit](https://www.youtube.com/watch?v=n1_DkGDkzzg) |
-| Filip Kaliszan | Verkada | [Verkada's Path to Product-Market Fit](https://www.youtube.com/watch?v=YwxvuXELMbk) |
-| Zach Perret | Plaid | [Plaid's Path to Product-Market Fit](https://www.youtube.com/watch?v=QlkqWUYuDHM) |
-| Lloyd Tabb | Looker | [Looker's Path to Product-Market Fit](https://www.youtube.com/watch?v=T52RreyN4TE) |
-| Jack Altman | Lattice | [Lattice's Path to Product-Market Fit](https://www.youtube.com/watch?v=f8u2vs1NRv4) |
-| Christina Cacioppo | Vanta | [Vanta's Path to Product-Market Fit](https://www.youtube.com/watch?v=1fUKLEXcSoQ) |
+| Founder | Company | Video | Transcript |
+|---|---|---|---|
+| Jason Boehmig | Ironclad | [Ironclad's Path to Product-Market Fit](https://www.youtube.com/watch?v=n1_DkGDkzzg) | [transcript](transcripts/01-ironclad-jason-boehmig.md) |
+| Filip Kaliszan | Verkada | [Verkada's Path to Product-Market Fit](https://www.youtube.com/watch?v=YwxvuXELMbk) | [transcript](transcripts/02-verkada-filip-kaliszan.md) |
+| Zach Perret | Plaid | [Plaid's Path to Product-Market Fit](https://www.youtube.com/watch?v=QlkqWUYuDHM) | [transcript](transcripts/03-plaid-zach-perret.md) |
+| Lloyd Tabb | Looker | [Looker's Path to Product-Market Fit](https://www.youtube.com/watch?v=T52RreyN4TE) | [transcript](transcripts/04-looker-lloyd-tabb.md) |
+| Jack Altman | Lattice | [Lattice's Path to Product-Market Fit](https://www.youtube.com/watch?v=f8u2vs1NRv4) | [transcript](transcripts/05-lattice-jack-altman.md) |
+| Christina Cacioppo | Vanta | [Vanta's Path to Product-Market Fit](https://www.youtube.com/watch?v=1fUKLEXcSoQ) | [transcript](transcripts/06-vanta-christina-cacioppo.md) |
