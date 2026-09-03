@@ -8,6 +8,8 @@
 
 I’ve been running startups for 7 years. With our first product, we hit PMF, it took a lot of hard work and raw volume, but we hit $500k ARR, and ARR grew for 16 months at 10%+ MoM. We closed over 100 SME & Mid-market customers with our GDPR Compliance Platform called Privasee.
 
+![Privasee growth](https://substackcdn.com/image/fetch/$s_!dE6T!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31158baf-efa1-4e6f-ae12-16e7dca49118_1456x1048.webp)
+
 Then our main acquisition channel, an AI SDR, before those existed, collapsed when AI SDRs started being created as products, Google tightened email spam rules, and people started ignoring their inboxes.
 
 I typically say we arrived at level 2 PMF according to [Levels of PMF from First Round](https://www.firstround.com/levels)
@@ -19,6 +21,8 @@ We’re now building [Glassray](https://www.glassray.ai), and actively working t
 My job is building a VC-backed startup, and my hobby is learning about startups and engineering; thus, I consider myself a Startup Athlete. Like any athlete, you win by training, competing, and winning enough that other great people recognise you. I’m on that path today.
 
 > Be cautious of my advice, I found PMF but an early sign of it, this does not qualify me to give advice, but it may help you to learn about my reflections.
+
+![](https://substackcdn.com/image/fetch/$s_!eK20!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F534f3d9e-0926-4220-b41c-c05a9faaa5ce_2912x2096.png)
 
 ## Recommended Reading
 
