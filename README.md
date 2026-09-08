@@ -36,7 +36,7 @@ The phrase “you will know when you feel it” is bad advice; therefore, others
 2. **[The Arc Product-Market Fit Framework](https://sequoiacap.com/article/pmf-framework)** ([.md version](https://github.com/afrancht/finding-pmf/blob/main/sequoia-arc-pmf-framework.md)) a bit more generic but is great because:
    1. It explains the different **types of companies you may be building**. VC push you towards hair-on-fire problems as those are the easiest to back, but you may want to build something different.
    2. It proposes some **terrifying questions** to critically analyse your company for example: **how is my product 10x better**?
-   3. Explains the **Path to Conviction** you must have to get PMF, starting from your internal vision & belief and up to, will people pay enough to build a business.
+   3. Explains the **Path to Conviction** you must have to get PMF, starting from your internal vision & belief and up to, will people pay enough to build a business. (This part is in the talk rather than the article — [the 4 areas of conviction](https://github.com/afrancht/finding-pmf/blob/main/sequoia-arc-pmf-framework.md#appendix-the-4-areas-of-conviction).)
 
    [![The Arc Product-Market Fit Framework (video)](https://img.youtube.com/vi/18A84qjVbeo/0.jpg)](https://www.youtube.com/watch?v=18A84qjVbeo)
 

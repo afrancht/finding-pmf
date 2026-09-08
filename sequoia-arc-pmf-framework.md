@@ -23,6 +23,7 @@
 - [The Quest Continues](#the-quest-continues)
 - [Appendix: The Arc PMF Framework at a glance](#appendix-the-arc-pmf-framework-at-a-glance)
 - [Appendix: The Arc PMF Diagnostic](#appendix-the-arc-pmf-diagnostic)
+- [Appendix: The 4 Areas of Conviction](#appendix-the-4-areas-of-conviction)
 - [Appendix: Talk and transcript](#appendix-talk-and-transcript)
 
 ---
@@ -203,6 +204,23 @@ For further reading on how to put it into action, see the Arc Terrifying Questio
 | Do your customers not realize they are customers? | Do you have the capital and conviction to build the future you see? |
 | Has something shifted that makes the impossible possible? | Do you have the technical and commercial roadmap to get you there? |
 | Is the future you see the right one? | Does your product make the future now? |
+
+## Appendix: The 4 Areas of Conviction
+
+*Not in the article. This is the second framework Vicki Peng and Zefi Hennessy Holland present in the [Slush talk](https://www.youtube.com/watch?v=18A84qjVbeo), summarised from the [transcript](sequoia-arc-pmf-framework/transcripts/01-slush-deconstructing-pmf.md). Where the three archetypes describe the path you are on, these four describe the order in which you earn belief along it. Whichever archetype you are, the talk argues your path runs through all four.*
+
+The framing behind it: most PMF advice describes **outputs** (the boulder rolls downhill, the 40% "very disappointed" score, you'll know it when you see it). Those are true but hard to act on. The four areas are an attempt to name the **inputs** instead.
+
+| # | Area | The terrifying question | Conviction criteria |
+|---|---|---|---|
+| 1 | **Originating belief** | What is my right to exist as a business? What is my unfair advantage and right to win? | You commit to this problem, market and opportunity, knowing you are marrying the problem for a decade. |
+| 2 | **Problem** | Does anyone actually care about the opportunity I'm solving for? | A defined ICP you could search on LinkedIn and find 50 people matching, plus design customers who want to co-create rather than "come back when v1 ships". |
+| 3 | **Solution** | Does your product actually change customer behaviour? | Retained customers, **and** a line of sight to scale: where do the next 100 and the next 1,000 come from, and can your team, tech and processes take it? |
+| 4 | **Value prop** | Will they pay, and at the number you need? | Paying customers at the dollar amount you expect, plus a credible answer on the scale of your ambition. |
+
+**On area 3, the two-whiteboard exercise.** Put the first and last name of every customer who stuck to your product on one whiteboard: who they are, their job, the problem they were solving in their own words, and why your product was compelling enough to keep. Put every customer who did not stick on a second whiteboard, with the same detail on why not. Getting there means running win interviews and loss interviews. Filled out to a hundred names a side, the pattern of what makes a customer stick becomes hard to miss.
+
+**On area 4, why it is included at all.** The talk notes this was internally contested. Most PMF frameworks stop at engaged, retained customers. Sequoia's argument for adding it: you are building a business, not just a product, and a business involves value exchange, so usage without payment at your target price is not yet fit. The scale question they pair with it is the path to $100M in revenue: many customers paying a little, or few paying a lot?
 
 ## Appendix: Talk and transcript
 
