@@ -42,7 +42,11 @@ The phrase “you will know when you feel it” is bad advice; therefore, others
 
    *([transcript](https://github.com/afrancht/finding-pmf/blob/main/sequoia-arc-pmf-framework/transcripts/01-slush-deconstructing-pmf.md))*
 
-3. **[The Foundation Sprint](https://www.lennysnewsletter.com/p/introducing-the-foundation-sprint)** by John Zeratsky and Jake Knapp (creators of the design sprint). The podcast version gives you a framework to get started and start by validating your assumptions in an agressive way, while looking at your problem to solve from many directions.
+3. **[The PULL Framework](https://thephysicsofstartups.substack.com/p/the-pull-framework-in-detail)** by Rob Snyder ([notes](https://github.com/afrancht/finding-pmf/blob/main/physics-of-startups-pull-framework.md)) is the sharpest answer I've found to *why* customers buy. PULL = an unavoidable **P**roject that is **U**navoidable now, a **L**ist of options they consider, and the **L**imitations that block them. Two things it fixed for me:
+   1. **Demand is supply-agnostic.** Nobody wants a CRM. They want their sales data organised. Stop asking if people want your product.
+   2. **Your ICP is whoever would be weird *not* to buy** given their priorities and options. Everything else — pricing, onboarding, sales calls — is downstream of getting that right.
+
+4. **[The Foundation Sprint](https://www.lennysnewsletter.com/p/introducing-the-foundation-sprint)** by John Zeratsky and Jake Knapp (creators of the design sprint). The podcast version gives you a framework to get started and start by validating your assumptions in an agressive way, while looking at your problem to solve from many directions.
 
    [![The Foundation Sprint (podcast)](https://img.youtube.com/vi/UbjAOCzpNWc/0.jpg)](https://www.youtube.com/watch?v=UbjAOCzpNWc)
 
